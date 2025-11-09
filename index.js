@@ -1,2 +1,2 @@
-let billionaire = "billionairehari"
 let billionairehari = "billionaireHariprasath"
+let billionaires = "billionaire"
